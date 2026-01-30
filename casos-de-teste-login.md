@@ -16,7 +16,7 @@ Passos:
 Resultado esperado:
 Usuário deve ser autenticado e redirecionado para a página de produtos
 
-Status: Não executado
+Status: Passou
 
 ❌ CT-002 — Login com senha inválida
 
@@ -35,7 +35,7 @@ Passos:
 Resultado esperado:
 Sistema deve exibir mensagem de erro informando credenciais inválidas
 
-Status: Não executado
+Status: Passou
 
 ❌ CT-003 — Login com usuário inválido
 
@@ -54,6 +54,6 @@ Passos:
 Resultado esperado:
 Sistema deve exibir mensagem de erro informando credenciais inválidas
 
-Status: Não executado
+Status: Passou
 
 
