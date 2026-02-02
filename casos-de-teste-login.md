@@ -16,7 +16,7 @@ Passos:
 Resultado esperado:
 Usuário deve ser autenticado e redirecionado para a página de produtos
 
-Status: Passou
+Status: Automatizado (Cypress)
 
 ❌ CT-002 — Login com senha inválida
 
