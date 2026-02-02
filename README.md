@@ -24,3 +24,7 @@ Projeto prático de Quality Assurance com foco em testes manuais, automação e 
 - casos-de-teste-login.md: casos de teste manuais da funcionalidade de login
 - evidencias-jira.md: prints do backlog e board no Jira
 
+### Automação
+- Testes automatizados com Cypress
+- Caso automatizado: CT-001 (Login válido)
+
