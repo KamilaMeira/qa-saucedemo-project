@@ -23,6 +23,7 @@ Projeto prático de Quality Assurance com foco em testes manuais, automação e 
 - plano-de-teste.md: estratégia e escopo dos testes
 - casos-de-teste-login.md: casos de teste manuais da funcionalidade de login
 - evidencias-jira.md: prints do backlog e board no Jira
+- evidencias-cypress.md: print do Cypress rodando
 
 ### Automação
 - Testes automatizados com Cypress
