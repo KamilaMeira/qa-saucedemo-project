@@ -35,7 +35,7 @@ Passos:
 Resultado esperado:
 Sistema deve exibir mensagem de erro informando credenciais inválidas
 
-Status: Passou
+Status: Automatizado (Cypress)
 
 ❌ CT-003 — Login com usuário inválido
 
