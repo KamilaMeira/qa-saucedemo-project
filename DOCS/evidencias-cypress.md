@@ -1,5 +1,5 @@
 Casos de automatizado teste de Login:
-<img width="1356" height="676" alt="image" src="https://github.com/user-attachments/assets/f1bb5578-e475-4d95-a6cc-3d2c7131efd7" />
+<img width="1364" height="721" alt="image" src="https://github.com/user-attachments/assets/0547361c-686b-4325-ad7b-0f7e44bbcc50" />
 Casos de teste automatizado Carrinho
 <img width="1365" height="713" alt="image" src="https://github.com/user-attachments/assets/1f45626f-d669-456d-af84-e3d4507336ca" />
 Casos de teste automatizado Checkout
