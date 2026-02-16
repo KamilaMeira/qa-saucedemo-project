@@ -9,7 +9,8 @@ describe('Login - Saucedemo', () => {
 
     cy.url().should('include', '/inventory')
   })
-})
+
+
 it('CT-002 — Login com senha inválida', () => { 
     cy.visit('https://www.saucedemo.com')
      // Inserindo usuário válido 
@@ -45,6 +46,7 @@ it('CT-002 — Login com senha inválida', () => {
 
   })
 
+
   it('CT-004 — Campo usuário vazio', () => {
 
     cy.visit('https://www.saucedemo.com')
@@ -67,6 +69,7 @@ it('CT-002 — Login com senha inválida', () => {
 
   })
 
+
   it('CT-005 — Senha vazia', () => {
 
     cy.visit('https://www.saucedemo.com')
@@ -88,4 +91,5 @@ it('CT-002 — Login com senha inválida', () => {
     cy.url().should('not.include', '/inventory')
 
   })
+})
 
