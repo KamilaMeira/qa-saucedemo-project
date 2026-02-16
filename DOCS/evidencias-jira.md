@@ -1,10 +1,19 @@
-Login do usuário no sistema
-<img width="1120" height="577" alt="image" src="https://github.com/user-attachments/assets/68843e4c-fc16-43b0-b7a0-5ca96516be96" />
-Executar testes manuais de login
-<img width="1361" height="625" alt="image" src="https://github.com/user-attachments/assets/155c4e36-1c5b-4578-af68-4eb38d9e1e96" />
-Criar casos de teste para funcionalidade de login
-<img width="1341" height="632" alt="image" src="https://github.com/user-attachments/assets/69507834-c8a8-4064-b9fd-d64dbe66419c" />
-Mensagem de erro genérica no login com credenciais inválidas
-<img width="1329" height="632" alt="image" src="https://github.com/user-attachments/assets/98c0d583-a830-447f-ac54-8e13e3a0387a" />
+Projeto qa-saucedemo
+BACLOG
+<img width="1362" height="642" alt="image" src="https://github.com/user-attachments/assets/395c927c-6018-418b-aa2d-e53e643fc75e" />
 BOARD
-<img width="1365" height="610" alt="image" src="https://github.com/user-attachments/assets/7d09cf88-f1e7-4aa5-a812-76e5d46b3e8a" />
+<img width="1354" height="629" alt="image" src="https://github.com/user-attachments/assets/5b2a8d69-aa7a-42d4-bcdb-beb77f28cb29" />
+Stories
+LOGIN
+<img width="1257" height="523" alt="image" src="https://github.com/user-attachments/assets/26c16852-efa9-4215-9925-7b5a5e3bc1a7" />
+CARRINHO
+<img width="1360" height="697" alt="image" src="https://github.com/user-attachments/assets/8d3505f4-1fd8-4634-af79-69db18eb8492" />
+CHECKOUT
+<img width="1330" height="635" alt="image" src="https://github.com/user-attachments/assets/541bea96-c4aa-4b11-b085-d71a43274f93" />
+TASKS
+LOGIN
+<img width="1252" height="508" alt="image" src="https://github.com/user-attachments/assets/f29e5ac1-9778-4f87-8157-0b01d02952d7" />
+CARRINHO
+<img width="1254" height="515" alt="image" src="https://github.com/user-attachments/assets/b1d1f4e7-a573-4750-a6f9-2ebe48b35001" />
+CHECKOUT
+<img width="1245" height="510" alt="image" src="https://github.com/user-attachments/assets/5eca391b-b380-4594-bb58-706ffa79ccbb" />
