@@ -1,26 +1,54 @@
-# QA Automation Project – SauceDemo
 
-Este projeto foi desenvolvido com o objetivo de praticar e demonstrar conhecimentos em Quality Assurance, incluindo testes manuais, automação de testes e testes de API.
+Conteúdo:
 
-## 🔍 Escopo do Projeto
+```markdown
+# 🔌 Testes de API
 
-O projeto inclui:
+Esta pasta contém os testes de API realizados no projeto de Quality Assurance.
 
-- Planejamento de testes
-- Criação de casos de teste
-- Execução de testes manuais
-- Automação de testes com Cypress
-- Testes de API utilizando Postman
-- Organização de evidências
-- Versionamento e documentação no GitHub
+Os testes foram executados utilizando o Postman com uma API pública de teste.
 
-## 🧪 Testes Manuais
+---
 
-Cenários testados:
+## 🛠️ Ferramentas utilizadas
 
-- Login
-- Carrinho de compras
-- Checkout
+- Postman
+- JSONPlaceholder
+- GitHub
 
-Documentação disponível na pasta:
+---
 
+## 🧪 Endpoints testados
+
+### GET /users
+Retorna a lista de usuários cadastrados.
+
+Validações realizadas:
+- Status code 200
+- Estrutura da resposta JSON
+- Lista de usuários retornada
+
+---
+
+### GET /users/{id}
+
+Retorna um usuário específico.
+
+Validações realizadas:
+- Status code 200
+- ID do usuário retornado
+- Estrutura do objeto
+
+---
+
+### POST /users
+
+Cria um novo usuário.
+
+Validações realizadas:
+- Status code 201
+- Retorno do objeto criado
+
+---
+
+## 📁 Estrutura da pasta
