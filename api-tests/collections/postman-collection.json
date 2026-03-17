@@ -1,0 +1,34 @@
+{
+  "info": {
+    "_postman_id": "489a7d66-0d71-44fb-8d5b-c4ac1273d35b",
+    "name": "QA API Tests - ReqRes",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "42695999"
+  },
+  "item": [
+    {
+      "name": "GET Users",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "TESTE 3 — Buscar usuário por ID",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "TESTE 4 — Criar usuário",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    }
+  ]
+}
